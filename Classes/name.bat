@@ -1,0 +1,1 @@
+dir /s *.cpp /b >name.txt 
