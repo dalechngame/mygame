@@ -1,0 +1,7 @@
+../../Classes/AI.cpp \
+../../Classes/AppDelegate.cpp \
+../../Classes/ChessSprite.cpp \
+../../Classes/GameStartLayer.cpp \
+../../Classes/Stone.cpp \
+
+
